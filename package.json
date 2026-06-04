@@ -1,6 +1,6 @@
 {
   "name": "vuex-easy-firestore",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Easy coupling of firestore and a vuex module. 2-way sync with 0 boilerplate!",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -61,12 +61,6 @@
     "vue": "^3.4.21",
     "vuepress": "^2.0.0-rc.8",
     "vuex": "^4.1.0"
-  },
-  "overrides": {
-    "lodash@<4.18.0": "4.18.1",
-    "axios": "^1.16.1",
-    "protobufjs": "^7.5.8",
-    "undici": "^6.24.0"
   },
   "peerDependencies": {
     "firebase": "^11.10.0"
